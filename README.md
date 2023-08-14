@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uandere
-- 👀 I’m interested in AI, Physics and CS.
-- 🌱 I’m currently using Rust and C++.
+- 👀 I’m interested in AI, Physics and CS
+- 🌱 I’m currently using Rust and C++
 - 💞️ I’m working at TOP ENLIGHTENMENT as a Junior C++ Dev
 - 📫 How to reach me:
 - - telegram: @demchvk
