@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @uandere
-- 👀 I’m interested in AI, Physics and CS
-- 🌱 I’m currently using Rust and C++
-- 💞️ I’m working at TOP ENLIGHTENMENT as a Junior Rust/C++ Dev
+- 👀 I’m interested in Physics and CS
+- 🌱 I’m currently using Rust, and I LOVE IT
+- 💞️ I’m working at LYNX CAPITAL as Software Engineer
 - 📫 How to reach me:
 - - telegram: @demchvk
   - djinni: [@demchvk](https://djinni.co/q/c239006caa/)
