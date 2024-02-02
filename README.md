@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @uandere
-- 👀 I’m interested in Physics and CS
-- 🌱 I’m currently using Rust, and I LOVE IT
-- 💞️ I’m working at LYNX CAPITAL as Software Engineer
-- 📫 How to reach me:
+### Position
+Rust Software engineer
+
+### Worrking at
+LYNX CAPITAL PARTNERS
+
+### How to reach
 - - telegram: @demchvk
   - djinni: [@demchvk](https://djinni.co/q/c239006caa/)
   - LinkedIn: [@demchvk](https://www.linkedin.com/in/nazar-demchuk/)
