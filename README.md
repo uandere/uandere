@@ -16,4 +16,4 @@ LYNX CAPITAL PARTNERS
   - LinkedIn: [@demchvk](https://www.linkedin.com/in/nazar-demchuk/)
 
 ## Activity
-[![Nazars's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uandere&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nazars's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uandere&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
