@@ -7,10 +7,10 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,cpp,wasm,yew,rocket,actix,docker,postgres,linux&theme=dark)](https://skillicons.dev)
 
 ### Position
-Rust Software engineer
+#### Rust Software engineer
 
 ### Worrking at
-LYNX CAPITAL PARTNERS
+#### LYNX CAPITAL
 
 ### How to reach
 - - telegram: @demchvk
