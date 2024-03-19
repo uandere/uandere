@@ -21,8 +21,8 @@
 [![Nazars's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uandere&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=uandere&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=uandere&card_width=50%" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uandere&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uandere&layout=compact&langs_count=8&card_width=50%" />
 </a>
