@@ -22,7 +22,7 @@
 
 <div style="display: flex; width: 100%; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-grow: 2; display: flex; justify-content: center; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=uandere&theme=ambient_gradient" style="width: auto; max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=uandere&theme=ambient_gradient" style="height: 300px; width: auto; max-width: 100%;">
   </a>
   <a href="https://github.com/anuraghazra/convoychat" style="flex-grow: 1; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uandere&size_weight=0&count_weight=1&theme=ambient_gradient" style="width: auto; max-width: 100%;">
