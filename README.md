@@ -26,3 +26,16 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uandere&size_weight=0&count_weight=1&theme=ambient_gradient" />
 </a>
+
+<div style="display: flex; flex-direction: row; width: 100%;">
+  <div style="flex: 60%;"> <!-- Adjust the flex value to control the width ratio -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=uandere&theme=ambient_gradient" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+  <div style="flex: 40%;"> <!-- Adjust the flex value to control the width ratio -->
+    <a href="https://github.com/anuraghazra/convoychat">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uandere&size_weight=0&count_weight=1&theme=ambient_gradient" style="width: 100%; height: auto;" />
+    </a>
+  </div>
+</div>
