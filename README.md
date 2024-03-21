@@ -27,15 +27,12 @@
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uandere&size_weight=0&count_weight=1&theme=ambient_gradient" />
 </a>
 
-<div style="display: flex; width: 100%;">
-  <div style="flex: 3; display: flex; justify-content: center; align-items: center;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=uandere&theme=ambient_gradient" style="height: 100%; width: auto;">
-    </a>
-  </div>
-  <div style="flex: 2; display: flex; justify-content: center; align-items: center;">
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uandere&size_weight=0&count_weight=1&theme=ambient_gradient" style="height: 100%; width: auto;">
-    </a>
-  </div>
+<div style="display: flex; width: 100%; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-grow: 2; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=uandere&theme=ambient_gradient" style="height: 300px; width: auto; max-width: 100%;">
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat" style="flex-grow: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uandere&size_weight=0&count_weight=1&theme=ambient_gradient" style="height: 300px; width: auto; max-width: 100%;">
+  </a>
 </div>
+
