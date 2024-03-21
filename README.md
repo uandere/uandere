@@ -20,7 +20,7 @@
 ## Activity
 [![Nazars's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uandere&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div style="display: flex; width: 100%; align-items: center;">
+<div style="display: flex; width: 100%; align-items: center; flex-direction: row;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-grow: 2; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=uandere&theme=ambient_gradient" style="height: 300px; width: auto; max-width: 100%;">
   </a>
