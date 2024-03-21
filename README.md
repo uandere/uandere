@@ -20,13 +20,6 @@
 ## Activity
 [![Nazars's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uandere&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=uandere&theme=ambient_gradient" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uandere&size_weight=0&count_weight=1&theme=ambient_gradient" />
-</a>
-
 <div style="display: flex; width: 100%; align-items: center;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="flex-grow: 2; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=uandere&theme=ambient_gradient" style="width: auto; max-width: 100%;">
