@@ -10,7 +10,7 @@
 #### Rust Software engineer
 
 ### Worrking at
-#### LYNX CAPITAL
+#### THE K.R.O.K
 
 ### How to reach
 - - telegram: @demchvk
