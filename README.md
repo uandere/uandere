@@ -9,6 +9,8 @@
 ### Position
 #### Rust Software engineer
 
+I am a backend / blockchain specialist.
+
 ### Worrking at
 #### THE K.R.O.K
 
